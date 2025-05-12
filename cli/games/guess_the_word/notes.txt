@@ -1,14 +1,20 @@
 until monday:
-save word list as constants
 cli app for all converters
 add fith converters
-exlude pycache
 
 until friday:
-think about how to build converter
 for converter_gui:
 1. Change title of app
 2. In the same app, I want to  be able to convert different quantities
 Extras:
 1. (entry of miles) mi = (label of kilometers) kilometers
 2. The main Window should apper in the middle of the screen. (for any screen)
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+create funktion for 
+in evaluate() avoid errors......
+Add button for x^3
+Add button x^(1/3)
+Add button for modul operator : %

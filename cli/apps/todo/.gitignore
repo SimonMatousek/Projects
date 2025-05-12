@@ -1,1 +1,2 @@
-/apps/converters/.converter_venv
+/apps/.venv
+/apps/morse_code/__pycache__
